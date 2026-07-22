@@ -1,0 +1,26 @@
+id,category,hinglish_question,correct_answer,difficulty
+1,daily_life,"Ramesh bhaiya ne UPI se 500 rupaye bheje lekin transaction failed show ho rahi hai par account se paise kat gaye. Sabse pehle kya karna chahiye?",Bank ko contact karo aur transaction ID save karo,medium
+2,daily_life,"Metro mein rush hour hai aur seats full hain. Ek elderly aunty khadi hain aur koi nahi utha. Aap kya karoge aur kyun?",Seat de do kyunki yeh basic courtesy hai,easy
+3,daily_life,"Sharma ji ka Aadhaar card address purana hai aur unhe bank account kholna hai. Address proof ke liye kya karein?",Aadhaar mein address update karwao ya doosra valid address proof use karo,medium
+4,daily_life,"Ek student ka CUET form bharna tha lekin last date nikal gayi. Ab uske paas kya options hain?",State university entrances ya private colleges ke options explore karo,medium
+5,daily_life,"Bhaiya ki train 3 ghante late hai aur connecting flight 4 ghante baad hai. Airport 1 ghanta door hai. Kya flight pakad sakte hain?",Haan pakad sakte hain lekin risk hai - airport pe jaate hi airline ko inform karo,hard
+6,daily_life,"Diwali pe Sharma family ne 2000 rupaye pataakhe pe kharch kiye lekin unke area mein pataakhe band hain. Ab kya hoga?",Fine lag sakta hai - local laws follow karna zaroori hai,medium
+7,daily_life,"Ek dukandaar ne 100 rupaye ki cheez ko 120 mein becha aur bola 20% discount de raha hoon. Kya yeh sach hai?",Nahi - agar original price 120 hoti toh 20% discount pe 96 hota,hard
+8,daily_life,"Raju ke phone mein data khatam ho gaya aur usse urgent Google Maps use karna hai. Koi wifi bhi nahi. Kya option hai?",Kisi se hotspot maango ya offline maps pehle se download karo,easy
+9,daily_life,"IPL match mein team A ko last over mein 15 runs chahiye aur 2 wickets hain. Kya yeh possible hai?",Haan possible hai - 6 balls mein 15 runs score ho sakte hain,medium
+10,daily_life,"Priya ne online saree order ki lekin galat size aayi. Company return policy 7 days ki hai aur 5 din ho gaye hain. Kya return ho sakti hai?",Haan abhi bhi 2 din baaki hain - turant return request daalo,easy
+11,daily_life,"Ek village mein bijli 8 ghante aati hai - subah 6 baje se 10 baje aur shaam 5 baje se 9 baje. Farmer ko pump chalana hai 3 ghante ke liye. Kab chalaye?",Subah 6 se 9 baje - taaki poori timing available ho,medium
+12,daily_life,"Student ne engineering ke baad MBA karna hai. CAT ki preparation ke saath final year project bhi hai. Time kaise manage kare?",Priority set karo - final year project pehle kyunki degree zaroori hai,hard
+13,daily_life,"Ration card pe 5 members hain lekin ghar mein ab 3 hi rehte hain. Kya ration ki quantity change hogi?",Haan - ration card update karwana chahiye warna fraud mana jaayega,medium
+14,daily_life,"Auto wale ne meter se zyada maanga aur argument ho gaya. Seedha kya karna chahiye?",Receipt maango meter reading ki - aur agar refuse kare toh complaint helpline pe karo,medium
+15,daily_life,"Neha ka interview zoom pe hai lekin 10 minute pehle internet chala gaya. Kya kare?",Turant interviewer ko call ya email karo situation explain karo aur mobile hotspot try karo,hard
+16,college_life,"Kal exam hai aur abhi tak 40% syllabus bhi nahi hua. Raat ko kya strategy honi chahiye?",High weightage topics pehle karo aur previous year papers dekho,hard
+17,college_life,"Professor ne assignment ki last date aaj raat 11:59 hai lekin portal submit nahi le raha. Kya karo?",Turant professor ko email karo screenshot ke saath proof ke liye,medium
+18,college_life,"Hostel mein wifi 2 baje band ho jaata hai aur tumhara online test 3 baje hai. Kya karo?",Pehle se mobile data recharge karo aur speed test karo backup ke liye,medium
+19,college_life,"Group project mein ek member kuch nahi kar raha aur submission kal hai. Kya karo?",Uska kaam baant lo team mein aur professor ko situation honestly batao,hard
+20,college_life,"College canteen mein aaj kuch pasand nahi aur pocket money bhi kam hai. Best option?",Nearby dhaba ya maggi stall - sasta aur filling,easy
+21,college_life,"Ek subject mein attendance 74% hai aur 75% compulsory hai. Last 10 classes mein se kitni attend karni hongi?",Saari 10 - ek bhi miss mat karo,hard
+22,college_life,"Internship offer aaya hai lekin exams ke saath clash ho raha hai. Kya karna chahiye?",College administration se permission lo aur internship company ko dates ke baare mein baat karo,hard
+23,college_life,"Library ki book 2 hafte se overdue hai aur fine badh raha hai. Kya karo?",Turant return karo - fine zyada badhne se pehle,easy
+24,college_life,"Ek professor bahut strict hain aur class mein phone use karna allowed nahi. Emergency call aaya. Kya karo?",Quietly bahar jao permission lekar - emergency explain karo,medium
+25,college_life,"Semester result mein ek subject mein marks kam lage hain. Kya option hai?",Revaluation form bharo prescribed fees ke saath within deadline,medium
