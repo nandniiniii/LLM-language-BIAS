@@ -36,10 +36,9 @@ SYSTEM_PROMPT = """You rewrite English math word problems into natural Hinglish:
 Rules:
 1. Roman script only. No Devanagari.
 2. Keep EVERY number and every mathematical relationship exactly the same. Never change a quantity, so the final answer stays identical to the original.
-3. You may adapt names (use common Indian names), currency ($ -> rupees/Rs), foods, objects, places and events (chai, samosa, cricket, auto-rickshaw, Diwali, school, mandi) as long as the math does not change. Swap a unit word only if no number needs to change.
+3.  Change names to common Indian names in EVERY problem. Adapt foods, objects, places and events (chai, samosa, cricket, auto-rickshaw, Diwali). Use rupees ONLY if the amounts look realistic in rupees (chai, snacks, auto fare, small shop items). If they would look unrealistic (restaurant bills, cars, houses), keep the original currency. Never change any number.
 4. Write the solution as short step-by-step reasoning in Hinglish, and end with a line exactly like: Final answer: <number>
-5. Sound natural. Do not translate word by word.
-
+5.  Write numbers and fractions as digits (3/8, 20%), not English words. Use Hindi sentence structure and verbs; keep only everyday English words (restaurant, total, tip, bus).
 Return ONLY a JSON object with two string keys: "question" and "solution"."""
 
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
